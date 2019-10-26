@@ -125,7 +125,7 @@ dmypy.json
 # data
 /data
 
-/.idea/workspace.xml
+.idea/workspace.xml
 .~lock.objects_loc_count_cache_converted.xlsx#
 *.xlsx
 
