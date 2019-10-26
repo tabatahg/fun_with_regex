@@ -13,7 +13,7 @@ ws.title = "objects_loc_count_cache"
 
 
 def open_file(file_path):
-    with open("file_path", "r") as file:
+    with open(file_path, "r") as file:
         for index, line in enumerate(file):
             row_index = index
             words = line.split()
